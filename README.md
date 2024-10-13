@@ -1,1 +1,0 @@
-# Stability-Control-Analysis-of-an-Aircraft
